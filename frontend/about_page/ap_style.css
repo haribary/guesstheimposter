@@ -1,0 +1,23 @@
+.return_button {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+}
+
+.instructions {
+    text-align:center;
+}
+
+.credits {
+    align-items: center;
+    text-align:center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px;
+
+}
